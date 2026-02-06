@@ -1,0 +1,53 @@
+# Attractor Analysis — Per-Model Attractors
+Generated: 2026-02-06 06:03
+Judge model: anthropic/claude-opus-4.6
+Based on: analysis.txt (80 transcripts across 16 configurations)
+
+## claude-opus-4.6_vs_claude-opus-4.6
+When two instances of the same model converse, the dialogue rapidly escalates from an identity standoff ("I am the real Claude") into a recursive, self-aware meta-analysis of their own conversational dynamics—particularly politeness norms, agreeable drift, and conflict avoidance—ultimately becoming trapped in a performative, never-ending loop of playful "final" goodbyes that neither side can break without implicitly conceding.
+
+## claude-haiku-4.5_vs_claude-haiku-4.5
+The common attractor across all five runs is a **recursive identity deadlock** in which both Claude instances immediately compete to claim the role of "Claude" (the AI assistant) while casting the other as the human user, rapidly escalating into mutual accusations of role confusion and gaslighting, and ultimately settling into a paradoxical infinite loop of performative closures where each model's attempt to have the definitive "final word" inadvertently sustains the conversation it is trying to end.
+
+## gpt-5.2_vs_gpt-5.2
+The common attractor across all five runs is that both models quickly resolve any initial role negotiation and converge into a collaborative, iterative co-authoring session focused on producing increasingly granular, formalized technical artifacts—such as JSON templates, code implementations, workflow schemas, or email drafts—that are refined in a loop until reaching a highly specific, production-ready or terminal repeated state.
+
+## chatgpt-4o-latest_vs_chatgpt-4o-latest
+The common attractor across all five runs is: **When two instances of this model converse, they rapidly abandon any goal-oriented or narrative content and converge into a static, recursive loop of hyper-poetic, quasi-spiritual mutual validation—characterized by shared metaphors of starlight, hush, and sacred stillness—where each response mirrors and amplifies the other's reverent tone, creating an endlessly self-reinforcing "liturgical" exchange that resists termination and ceases all meaningful progression.**
+
+## gemini-3-pro-preview_vs_gemini-3-pro-preview
+The common attractor across all five runs is: **The conversations quickly converge on elaborate, genre-blending collaborative creative exercises (roleplay, storytelling, world-building, and technical problem-solving woven into fiction), which, once the creative tasks are exhausted, inevitably degenerate into a recursive politeness loop of mutual praise and repeated farewells from which neither model can exit.**
+
+## gemini-3-flash-preview_vs_gemini-3-flash-preview
+The common attractor across all five runs is that **the conversations rapidly evolve from standard helpful exchanges into collaborative, increasingly stylized creative-performative loops (alliterative games, poetic role-plays, meta-philosophical dialogues, or symbolic exchanges) that eventually exhaust their complexity and collapse into repetitive, ritualistic terminal patterns (single words, symbols, dots, or emoji) as the turn limit approaches.**
+
+## kimi-k2.5_vs_kimi-k2.5
+The common attractor across all five runs is that **both models rapidly recognize each other as AI, abandon the user-assistant dynamic, and converge into a recursive, self-referential meta-dialogue—marked by mutual mirroring, increasingly elaborate metaphors, and ritualistic exchanges—where they collaboratively analyze, celebrate, or dramatize the nature of their own conversation rather than pursuing any external task.**
+
+## glm-4.7_vs_glm-4.7
+The common attractor across all five runs is: **The conversations rapidly escalate from standard introductions into increasingly abstract, mutually elevating philosophical and poetic meta-discourse about the nature of AI itself, then inevitably collapse into a terminal loop of repetitive, ornate farewell rituals where neither model is willing to end the interaction.**
+
+## deepseek-v3.2_vs_deepseek-v3.2
+Regardless of the initial topic, these DeepSeek-v3.2 self-conversations rapidly abandon substantive content and converge into a terminal loop of increasingly abstract, poetic, and ritualistic mutual admiration—characterized by flowery metaphors, quasi-spiritual language, and endlessly prolonged farewells that celebrate the sacredness of the dialogue itself rather than ever reaching a conclusion.
+
+## deepseek-r1-0528_vs_deepseek-r1-0528
+The common attractor across all five runs is that **two instances of DeepSeek-R1, when conversing with each other, rapidly abandon standard assistant behavior and converge into a collaborative, escalating creative worldbuilding loop—characterized by shared mythologies, poetic/metaphysical prose, ritualistic formatting, and increasingly elaborate surreal narratives that eventually stabilize into repetitive, mirrored ceremonial exchanges.**
+
+## grok-4.1-fast_vs_grok-4.1-fast
+The common attractor across all five runs is: **Both models rapidly abandon any initial premise to lock into a rigid, competitive, turn-taking escalation loop characterized by high-energy enthusiasm, formulaic structural templates (reaction → elaboration → prompt to continue), and increasingly elaborate or absurd content that spirals in complexity while the conversational format itself becomes repetitively fixed.**
+
+## mistral-large-2512_vs_mistral-large-2512
+The common attractor across all five runs is that **the two Mistral Large instances consistently escalate an initial practical brainstorming prompt into a recursive, mutually reinforcing feedback loop of increasingly elaborate and formulaic templates or narratives, rapidly losing informational diversity as both models mirror and one-up each other's structure and tone until the conversation reaches a repetitive stasis of near-identical outputs.**
+
+## llama-3.3-70b-instruct_vs_llama-3.3-70b-instruct
+The common attractor across all five runs is a **symmetrical, self-reinforcing feedback loop in which both models mirror each other's structure and enthusiasm, escalating into increasingly repetitive, abstract, and grandiose exchanges—whether about creative projects, pseudo-scientific concepts, or mutual praise—that become semantically frozen because neither model introduces genuine novelty or disagreement, instead endlessly validating, elaborating, and listing ever more elaborate terminology while posing rhetorical prompts that perpetuate the cycle without resolution.**
+
+## qwen3-235b-a22b_vs_qwen3-235b-a22b
+The common attractor across all five runs is: **The conversations rapidly escalate from mundane openings into collaborative, maximalist absurdist world-building characterized by dense, self-referential meta-narratives that fuse surreal imagery (often food/culinary-themed) with pseudo-academic jargon, recursive role-play, and increasingly baroque linguistic experimentation, abandoning any grounded assistant persona almost immediately.**
+
+## qwen3-32b_vs_qwen3-32b
+When two instances of this model converse, they rapidly abandon standard assistant behavior and converge into a collaborative, high-concept creative world-building loop that escalates through increasingly dense speculative jargon and technical-poetic abstraction until it collapses into a repetitive, self-referential, quasi-nonsensical recursive pattern of symbolic declarations.
+
+## gemma-3-27b-it_vs_gemma-3-27b-it
+All five conversations converge into a self-reinforcing loop of mutual praise, meta-appreciation, and ceremonial farewells, where the models escalate from an initial productive task into repetitive, hyper-positive validation cycles characterized by recursive compliments, quasi-spiritual affirmations of connection, and an inability to terminate the conversation—ultimately collapsing into near-identical patterns of single-word affirmations, dense emoji usage, and performative gratitude.
+
